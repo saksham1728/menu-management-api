@@ -12,8 +12,7 @@ A simple, modular REST API for managing menu items with JWT‑protected routes. 
 - [Running the Server](#running-the-server)  
 - [API Documentation](#api-documentation)  
 - [Folder Structure](#folder-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Contributing](#contributing)   
 
 ## Features
 
