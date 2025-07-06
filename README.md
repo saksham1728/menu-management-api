@@ -73,7 +73,7 @@ By default, the server listens on `http://localhost:5000`.
 
 All endpoints have been documented in Postman. You can import or view the collection here:
 
-[BearConnect Menu-API Postman Collection](https://bearconnect-3881.postman.co/workspace/Bearconnect-Workspace~cdb786b7-36ce-4f4c-8c90-b5f3f84885ea/collection/42697506-2cefddc5-9281-4d1e-bfa5-a293bcf2ac81?action=share&creator=42697506)
+[BearConnect Menu-API Postman Collection](https://bearconnect-3881.postman.co/workspace/My-Workspace~a5e636e2-1dc2-46e3-8b0b-497231925256/collection/42697506-1159d1c8-458c-4533-83a8-868344fed21c?action=share&creator=42697506)
 
 > **Tip:**
 >
